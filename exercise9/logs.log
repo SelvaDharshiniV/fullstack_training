@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-15T09:54:41</date>
+  <millis>1639542281174</millis>
+  <sequence>0</sequence>
+  <logger>com.example.Application</logger>
+  <level>WARNING</level>
+  <class>com.example.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>email should have @ or .com or .in</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-15T09:55:09</date>
+  <millis>1639542309250</millis>
+  <sequence>0</sequence>
+  <logger>com.example.Application</logger>
+  <level>INFO</level>
+  <class>com.example.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Customer [customerId=100, customerName=Selva, email=selva@gmail.com, phoneNumber=8.14636533E8]</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-15T09:56:05</date>
+  <millis>1639542365491</millis>
+  <sequence>0</sequence>
+  <logger>com.example.Application</logger>
+  <level>WARNING</level>
+  <class>com.example.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>email should have @ or .com or .in</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-15T09:56:14</date>
+  <millis>1639542374983</millis>
+  <sequence>0</sequence>
+  <logger>com.example.Application</logger>
+  <level>INFO</level>
+  <class>com.example.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Customer [customerId=100, customerName=Selva, email=selva@gmail.com, phoneNumber=8.14636533E8]</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-15T09:57:09</date>
+  <millis>1639542429228</millis>
+  <sequence>0</sequence>
+  <logger>com.example.Application</logger>
+  <level>INFO</level>
+  <class>com.example.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Customer [customerId=1765, customerName=Selva, email=selva@gmail.com, phoneNumber=7339177.0]</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-15T09:57:47</date>
+  <millis>1639542467619</millis>
+  <sequence>0</sequence>
+  <logger>com.example.Application</logger>
+  <level>INFO</level>
+  <class>com.example.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Customer [customerId=1765, customerName=Selva, email=selva@gmail.com, phoneNumber=7339177.0]</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-15T10:00:01</date>
+  <millis>1639542601687</millis>
+  <sequence>0</sequence>
+  <logger>com.example.Application</logger>
+  <level>WARNING</level>
+  <class>com.example.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-15T10:00:07</date>
+  <millis>1639542607811</millis>
+  <sequence>0</sequence>
+  <logger>com.example.Application</logger>
+  <level>WARNING</level>
+  <class>com.example.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-15T10:00:28</date>
+  <millis>1639542628511</millis>
+  <sequence>0</sequence>
+  <logger>com.example.Application</logger>
+  <level>WARNING</level>
+  <class>com.example.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-15T10:00:34</date>
+  <millis>1639542634309</millis>
+  <sequence>0</sequence>
+  <logger>com.example.Application</logger>
+  <level>WARNING</level>
+  <class>com.example.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-15T10:02:30</date>
+  <millis>1639542750158</millis>
+  <sequence>0</sequence>
+  <logger>com.example.Application</logger>
+  <level>WARNING</level>
+  <class>com.example.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-15T10:03:02</date>
+  <millis>1639542782887</millis>
+  <sequence>0</sequence>
+  <logger>com.example.Application</logger>
+  <level>WARNING</level>
+  <class>com.example.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-15T10:07:21</date>
+  <millis>1639543041297</millis>
+  <sequence>0</sequence>
+  <logger>com.example.Application</logger>
+  <level>INFO</level>
+  <class>com.example.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Customer [customerId=1765, customerName=Selva, email=selva@gmail.com, phoneNumber=7339177.0]</message>
+</record>
+</log>
+Dec 15, 2021 10:08:17 AM com.example.Application main
+INFO: Customer [customerId=1765, customerName=Selva, email=selva@gmail.com, phoneNumber=7339177.0]
+Dec 15, 2021 10:30:26 AM com.example.Application main
+INFO: Customer [customerId=0, customerName=null, email=selva@gmail.com, phoneNumber=0.0]
+Dec 15, 2021 10:30:49 AM com.example.Application main
+INFO: Customer [customerId=0, customerName=null, email=null, phoneNumber=0.0]
+Dec 15, 2021 10:31:43 AM com.example.Application main
+INFO: Customer [customerId=0, customerName=null, email=selva@gmail.com, phoneNumber=0.0]
+Dec 15, 2021 10:32:58 AM com.example.Application main
+INFO: Customer [customerId=1765, customerName=Selva, email=selva@gmail.com, phoneNumber=7339177.0]
+Dec 15, 2021 10:32:58 AM com.example.Application main
+INFO: Customer [customerId=0, customerName=null, email=selva@gmail.com, phoneNumber=0.0]
+Dec 15, 2021 10:33:29 AM com.example.Application main
+INFO: Customer [customerId=1765, customerName=Selva, email=selva@gmail.com, phoneNumber=7339177.0]
+Dec 15, 2021 10:33:29 AM com.example.Application main
+INFO: Customer [customerId=0, customerName=null, email=selva@gmail.com, phoneNumber=0.0]
+Dec 15, 2021 10:35:30 AM com.example.Application main
+INFO: Customer [customerId=1765, customerName=Selva, email=selva@gmail.com, phoneNumber=7339177.0]
+Dec 15, 2021 10:35:31 AM com.example.Application main
+INFO: Customer [customerId=0, customerName=null, email=selva@gmail.com, phoneNumber=0.0]
+Dec 15, 2021 10:35:41 AM com.example.Application main
+INFO: Customer [customerId=1765, customerName=Selva, email=selva@gmail.com, phoneNumber=7339177.0]
+Dec 15, 2021 10:35:41 AM com.example.Application main
+INFO: Customer [customerId=0, customerName=null, email=kanic@gmail.com, phoneNumber=0.0]

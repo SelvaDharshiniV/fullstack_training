@@ -1,0 +1,237 @@
+Dec 14, 2021 2:05:40 PM com.example.demo.Application main
+SEVERE: 1- severe message
+Dec 14, 2021 2:05:40 PM com.example.demo.Application main
+WARNING: 2- warning message
+Dec 14, 2021 2:05:40 PM com.example.demo.Application main
+INFO: 3- java.util.logger configured successfully
+Dec 14, 2021 2:05:43 PM com.example.demo.Application main
+SEVERE: 1- severe message
+Dec 14, 2021 2:05:43 PM com.example.demo.Application main
+WARNING: 2- warning message
+Dec 14, 2021 2:05:43 PM com.example.demo.Application main
+INFO: 3- java.util.logger configured successfully
+Dec 14, 2021 2:05:43 PM com.example.demo.Application main
+SEVERE: 1- severe message
+Dec 14, 2021 2:05:43 PM com.example.demo.Application main
+WARNING: 2- warning message
+Dec 14, 2021 2:05:43 PM com.example.demo.Application main
+INFO: 3- java.util.logger configured successfully
+Dec 14, 2021 2:07:00 PM com.example.demo.Application main
+SEVERE: 1- severe message
+Dec 14, 2021 2:07:00 PM com.example.demo.Application main
+WARNING: 2- warning message
+Dec 14, 2021 2:07:00 PM com.example.demo.Application main
+INFO: 3- java.util.logger configured successfully
+Dec 14, 2021 2:07:01 PM com.example.demo.Application main
+SEVERE: 1- severe message
+Dec 14, 2021 2:07:01 PM com.example.demo.Application main
+WARNING: 2- warning message
+Dec 14, 2021 2:07:01 PM com.example.demo.Application main
+INFO: 3- java.util.logger configured successfully
+Dec 14, 2021 2:07:02 PM com.example.demo.Application main
+SEVERE: 1- severe message
+Dec 14, 2021 2:07:02 PM com.example.demo.Application main
+WARNING: 2- warning message
+Dec 14, 2021 2:07:02 PM com.example.demo.Application main
+INFO: 3- java.util.logger configured successfully
+Dec 14, 2021 2:07:41 PM com.example.demo.Application main
+SEVERE: 1- severe message
+Dec 14, 2021 2:07:41 PM com.example.demo.Application main
+WARNING: 2- warning message
+Dec 14, 2021 2:07:41 PM com.example.demo.Application main
+INFO: 3- java.util.logger configured successfully
+Dec 14, 2021 2:09:22 PM com.example.demo.Application main
+SEVERE: 1- severe message
+Dec 14, 2021 2:09:22 PM com.example.demo.Application main
+WARNING: 2- warning message
+Dec 14, 2021 2:09:22 PM com.example.demo.Application main
+INFO: 3- java.util.logger configured successfully
+Dec 14, 2021 2:09:32 PM com.example.demo.Application main
+SEVERE: 1- severe message
+Dec 14, 2021 2:09:32 PM com.example.demo.Application main
+WARNING: 2- warning message
+Dec 14, 2021 2:09:32 PM com.example.demo.Application main
+INFO: 3- java.util.logger configured successfully
+Dec 14, 2021 2:09:56 PM com.example.demo.Application main
+SEVERE: 1- severe message
+Dec 14, 2021 2:09:56 PM com.example.demo.Application main
+WARNING: 2- warning message
+Dec 14, 2021 2:09:56 PM com.example.demo.Application main
+INFO: 3- java.util.logger configured successfully
+Dec 14, 2021 2:09:59 PM com.example.demo.Application main
+SEVERE: 1- severe message
+Dec 14, 2021 2:09:59 PM com.example.demo.Application main
+WARNING: 2- warning message
+Dec 14, 2021 2:09:59 PM com.example.demo.Application main
+INFO: 3- java.util.logger configured successfully
+Dec 14, 2021 2:11:12 PM com.example.demo.Application main
+SEVERE: 1- severe message
+Dec 14, 2021 2:11:12 PM com.example.demo.Application main
+WARNING: 2- warning message
+Dec 14, 2021 2:11:12 PM com.example.demo.Application main
+INFO: 3- java.util.logger configured successfully
+Dec 14, 2021 2:11:14 PM com.example.demo.Application main
+SEVERE: 1- severe message
+Dec 14, 2021 2:11:14 PM com.example.demo.Application main
+WARNING: 2- warning message
+Dec 14, 2021 2:11:14 PM com.example.demo.Application main
+INFO: 3- java.util.logger configured successfully
+Dec 14, 2021 2:11:37 PM com.example.demo.Application main
+SEVERE: 1- severe message
+Dec 14, 2021 2:11:37 PM com.example.demo.Application main
+WARNING: 2- warning message
+Dec 14, 2021 2:11:37 PM com.example.demo.Application main
+INFO: 3- java.util.logger configured successfully
+Dec 14, 2021 2:13:26 PM com.example.demo.Application main
+SEVERE: 1- severe message
+Dec 14, 2021 2:13:26 PM com.example.demo.Application main
+WARNING: 2- warning message
+Dec 14, 2021 2:13:26 PM com.example.demo.Application main
+INFO: 3- java.util.logger configured successfully
+Dec 14, 2021 2:13:46 PM com.example.demo.Application main
+SEVERE: 1- severe message
+Dec 14, 2021 2:13:46 PM com.example.demo.Application main
+WARNING: 2- warning message
+Dec 14, 2021 2:13:46 PM com.example.demo.Application main
+INFO: 3- java.util.logger configured successfully
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-14T14:14:44</date>
+  <millis>1639471484324</millis>
+  <sequence>0</sequence>
+  <logger>com.example.demo.Application</logger>
+  <level>SEVERE</level>
+  <class>com.example.demo.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>1- severe message</message>
+</record>
+<record>
+  <date>2021-12-14T14:14:44</date>
+  <millis>1639471484343</millis>
+  <sequence>1</sequence>
+  <logger>com.example.demo.Application</logger>
+  <level>WARNING</level>
+  <class>com.example.demo.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2- warning message</message>
+</record>
+<record>
+  <date>2021-12-14T14:14:44</date>
+  <millis>1639471484344</millis>
+  <sequence>2</sequence>
+  <logger>com.example.demo.Application</logger>
+  <level>INFO</level>
+  <class>com.example.demo.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>3- java.util.logger configured successfully</message>
+</record>
+</log>
+Dec 14, 2021 2:14:54 PM com.example.demo.Application main
+SEVERE: 1- severe message
+Dec 14, 2021 2:14:54 PM com.example.demo.Application main
+WARNING: 2- warning message
+Dec 14, 2021 2:14:54 PM com.example.demo.Application main
+INFO: 3- java.util.logger configured successfully
+Dec 14, 2021 2:19:29 PM com.example.demo.Application main
+SEVERE: 1- severe message
+Dec 14, 2021 2:19:29 PM com.example.demo.Application main
+WARNING: 2- warning message
+Dec 14, 2021 2:19:29 PM com.example.demo.Application main
+INFO: 3- java.util.logger configured successfully
+Dec 14, 2021 2:19:39 PM com.example.demo.Application main
+SEVERE: 1- severe message
+Dec 14, 2021 2:19:39 PM com.example.demo.Application main
+WARNING: 2- warning message
+Dec 14, 2021 2:19:39 PM com.example.demo.Application main
+INFO: 3- java.util.logger configured successfully
+Dec 14, 2021 2:19:55 PM com.example.demo.Application main
+SEVERE: 1- severe message
+Dec 14, 2021 2:19:55 PM com.example.demo.Application main
+WARNING: 2- warning message
+Dec 14, 2021 2:19:55 PM com.example.demo.Application main
+INFO: 3- java.util.logger configured successfully
+Dec 14, 2021 2:23:01 PM com.example.demo.Application main
+SEVERE: 1- severe message
+Dec 14, 2021 2:23:01 PM com.example.demo.Application main
+WARNING: 2- warning message
+Dec 14, 2021 2:23:01 PM com.example.demo.Application main
+INFO: 3- java.util.logger configured successfully
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-14T14:25:12</date>
+  <millis>1639472112733</millis>
+  <sequence>0</sequence>
+  <logger>com.example.demo.Application</logger>
+  <level>SEVERE</level>
+  <class>com.example.demo.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>1- severe message</message>
+</record>
+<record>
+  <date>2021-12-14T14:25:12</date>
+  <millis>1639472112752</millis>
+  <sequence>1</sequence>
+  <logger>com.example.demo.Application</logger>
+  <level>WARNING</level>
+  <class>com.example.demo.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2- warning message</message>
+</record>
+<record>
+  <date>2021-12-14T14:25:12</date>
+  <millis>1639472112752</millis>
+  <sequence>2</sequence>
+  <logger>com.example.demo.Application</logger>
+  <level>INFO</level>
+  <class>com.example.demo.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>3- java.util.logger configured successfully</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-14T14:25:42</date>
+  <millis>1639472142103</millis>
+  <sequence>0</sequence>
+  <logger>com.example.demo.Application</logger>
+  <level>SEVERE</level>
+  <class>com.example.demo.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>1- severe message</message>
+</record>
+<record>
+  <date>2021-12-14T14:25:42</date>
+  <millis>1639472142122</millis>
+  <sequence>1</sequence>
+  <logger>com.example.demo.Application</logger>
+  <level>WARNING</level>
+  <class>com.example.demo.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2- warning message</message>
+</record>
+<record>
+  <date>2021-12-14T14:25:42</date>
+  <millis>1639472142123</millis>
+  <sequence>2</sequence>
+  <logger>com.example.demo.Application</logger>
+  <level>INFO</level>
+  <class>com.example.demo.Application</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>3- java.util.logger configured successfully</message>
+</record>
+</log>
