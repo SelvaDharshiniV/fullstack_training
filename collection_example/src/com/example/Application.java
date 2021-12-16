@@ -27,6 +27,25 @@ public class Application {
 		for (Student eachStudent:studList) {
 			System.out.println(eachStudent);
 		}
+//		Down casting the object to student 
+//		toArray() method return type is object but we require a Student[] array.so we rae doing down casting
+//		Student[] list=(Student[]) studList.toArray();
+//		System.out.println(list);
+		
+		
+//		Student[] studentList= {
+//				new Student(102,"Dharshini",95),
+//				new Student(103,"Charu",86)
+//		};
+//		List<Student> listFromArray=Arrays.asList(studentList);
+//		System.out.println(listFromArray);
+		
+		Object[] list=studList.toArray();
+		for(Object obj:list) {
+			Student stud=(Student)obj;
+			System.out.println(stud.getStudentName());
+		}
+		
 	}
 
 }

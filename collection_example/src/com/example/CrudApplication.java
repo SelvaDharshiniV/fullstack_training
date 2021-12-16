@@ -34,7 +34,7 @@ public class CrudApplication {
 		}
 		
 		
-		Student update= repo.updateMark(anand, 80);
+		Student update= repo.update(anand, 80);
 		logger.info("***Anand mark is updated***");
 		System.out.println(update);
 		

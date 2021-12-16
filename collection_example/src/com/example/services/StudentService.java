@@ -29,10 +29,10 @@ import com.example.utils.MarksComparator;
 	}
 
 	@Override
-	public Student updateMark(Student object, double revisedMark) {
+	public Student update(Student object, double revisedValue) {
 		int indPosition=studList.indexOf(object); // 1
 		Student foundStudent=studList.get(indPosition);// given values [rollNumber=101, studentName=Anand, markScored=78.0]
-		foundStudent.setMarkScored(revisedMark);// setting new values 80
+		foundStudent.setMarkScored(revisedValue);// setting new values 80
 //		return foundStudent;
 		return studList.set(indPosition, foundStudent );
 	}

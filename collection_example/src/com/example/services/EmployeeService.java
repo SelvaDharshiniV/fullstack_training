@@ -21,7 +21,7 @@ public class EmployeeService implements CrudRepository<Employee> {
 	}
 
 	@Override
-	public Student updateMark(Employee object, double rtevisedMark) {
+	public Employee update(Employee object, double revisedValue) {
 		// TODO Auto-generated method stub
 		return null;
 	}
